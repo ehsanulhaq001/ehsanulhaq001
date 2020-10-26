@@ -28,5 +28,12 @@
 
 ---
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="ehsanulhaq001's GitHub Stats" src="https://github-readme-stats.ehsanulhaq001.vercel.app/api?username=ehsanulhaq001&show_icons=true&hide_border=true" />
+
+</details>
+
 [twitter]: https://twitter.com/ehsan__ulhaq
 [linkedin]: https://linkedin.com/in/ehsanulhaq01
