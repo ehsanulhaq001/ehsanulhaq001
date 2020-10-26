@@ -31,7 +31,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-[![Ehsan's github stats](https://github-readme-stats.vercel.app/api?username=ehsanulhaq001)](https://github.com/ehsanulhaq001/github-readme-stats)
+<img align="left" alt="ehsanulhaq001's GitHub Stats" src="https://github-readme-stats.ehsanulhaq001.vercel.app/api?username=ehsanulhaq001&show_icons=true&hide_border=true" />
 
 </details>
 
