@@ -5,6 +5,7 @@
 
 ### Connect with me:
 
+[<img align="left" alt="ehsanulhaq01 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="ehsan__ulhaq | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ehsanulhaq01 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -44,5 +45,6 @@
 
 </details>
 
+[gmail]: mailto:ehsanulhaqkhawja01@gmail.com
 [twitter]: https://twitter.com/ehsan__ulhaq
 [linkedin]: https://linkedin.com/in/ehsanulhaq01
