@@ -31,7 +31,14 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="ehsanulhaq001's GitHub Stats" src="https://github-readme-stats.ehsanulhaq001.vercel.app/api?username=ehsanulhaq001&show_icons=true&hide_border=true" />
+![Ehsan's github stats](https://github-readme-stats.vercel.app/api?username=ehsanulhaq001&show_icons=true&theme=blueberry&hide=stars,prs)
+
+</details>
+
+<details>
+<summary>:zap: Language Usage</summary>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanulhaq001&layout=compact&langs_count=8&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
