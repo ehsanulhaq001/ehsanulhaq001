@@ -31,12 +31,9 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<summary>:zap: GitHub Stats</summary>
 
 ![Ehsan's github stats](https://github-readme-stats.vercel.app/api?username=ehsanulhaq001&show_icons=true&theme=gradient&hide=stars,prs)
-
-</details>
 
 <details>
 <summary>:zap: Language Usage</summary>
