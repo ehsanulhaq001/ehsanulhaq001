@@ -33,7 +33,7 @@
 
 <summary>:zap: GitHub Stats</summary>
 
-![Ehsan's github stats](https://github-readme-stats.vercel.app/api?username=ehsanulhaq001&show_icons=true&theme=gradient&hide=stars,prs)
+![Ehsan's github stats](https://github-readme-stats.vercel.app/api?username=ehsanulhaq001&show_icons=true&theme=blue-green&hide=stars,prs)
 
 <details>
 <summary>:zap: Language Usage</summary>
