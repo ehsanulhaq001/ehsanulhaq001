@@ -1,7 +1,7 @@
 ### Hi there, I'm Ehsan 👋
 
-- 🌱 I’m currently learning Machine Learning in <img alt="JavaScript" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> using <img  alt="ml5.js" width="50" src="./ml5js.png" />
-- 👯 I’m looking to collaborate with other developers
+- 🌱 Currently working on some AWS projects
+- 👯 Open to collaborate
 
 ### Connect with me:
 
