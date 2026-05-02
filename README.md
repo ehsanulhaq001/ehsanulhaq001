@@ -1,6 +1,5 @@
-<h1 align="center">hi, i'm ehsan</h1>
-
-<p align="center">platform engineering &nbsp;·&nbsp; ai systems &nbsp;·&nbsp; full-stack</p>
+<h1 align="center">Hi 👋, I'm Ehsan</h1>
+<h3 align="center">Computer Science Enthusiast</h3>
 
 <br/>
 
