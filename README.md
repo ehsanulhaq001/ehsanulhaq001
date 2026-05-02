@@ -13,10 +13,11 @@
 <td align="center"><a href="https://k9scli.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/k9s.png" alt="k9s" width="40" height="40"/></a></td>
 <td align="center"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a></td>
 </tr>
-<tr><td colspan="4" align="center"><sub>ai & ml</sub></td></tr>
+<tr><td colspan="5" align="center"><sub>ai & ml</sub></td></tr>
 <tr>
 <td align="center"><a href="https://ollama.com/" target="_blank" rel="noreferrer"><img src="https://ollama.com/public/ollama.png" alt="ollama" width="40" height="40"/></a></td>
 <td align="center"><a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/130722866?s=200&v=4" alt="llamaindex" width="40" height="40"/></a></td>
+<td align="center"><a href="https://docs.litellm.ai/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/BerriAI/litellm/main/docs/my_docs/img/litellm_logo.png" alt="litellm" width="40" height="40"/></a></td>
 <td align="center"><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a></td>
 <td align="center"><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a></td>
 </tr>
